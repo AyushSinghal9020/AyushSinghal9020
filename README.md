@@ -6,6 +6,8 @@
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me - through mail => **ayushsinghal659@gmail.com** , **[Kaggle](https://www.kaggle.com/ayushs9020)**
 
+[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushSinghal9020)](https://github.com/AyushSInghal9020/github-readme-stats)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=AyushSinghal9020&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <a href="https://www.kaggle.com/ayushs9020">
