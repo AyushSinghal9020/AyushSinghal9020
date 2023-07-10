@@ -1,8 +1,12 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+good+to+see+you+🙃;Let's+get+better+together+✊)](https://git.io/typing-svg)
+
 - 👋 Hi, I’m @AyushSinghal9020
 - 👀 I’m interested in Machine Leaning
 - 🌱 I’m currently learning Data Scince
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me - through mail => **ayushsinghal659@gmail.com** , **[Kaggle](https://www.kaggle.com/ayushs9020)**
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AyushSinghal9020&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <a href="https://www.kaggle.com/ayushs9020">
 <img src="https://i.ibb.co/BfxpHX7/Picture1.png" alt="Kaggle" width = 65></a>
