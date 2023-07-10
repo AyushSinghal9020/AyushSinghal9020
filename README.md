@@ -16,6 +16,7 @@
 ![Commits KDEPlot](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushSInghal9020&theme=github_dark)
 [![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushSinghal9020)](https://github.com/AyushSInghal9020/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=AyushSinghal9020&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 ![Top Languages By Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyushSInghal9020&theme=github_dark)
 ![Top Languages By Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyushSInghal9020&theme=github_dark)
 
