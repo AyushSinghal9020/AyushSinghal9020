@@ -20,7 +20,6 @@
 ![Top Languages By Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyushSInghal9020&theme=github_dark)
 ![Top Languages By Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyushSInghal9020&theme=github_dark)
 
-<img src="https://i.ibb.co/BfxpHX7/Picture1.png" alt="Kaggle" width = 65></a>
 <a href="https://www.linkedin.com/in/ayush-singhal-a0614a221">
 <img src="https://static.vecteezy.com/system/resources/previews/017/339/624/original/linkedin-icon-free-png.png" alt="Linkdin" width = 75></a>
 <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Logo.png" alt="Python" width="100" height="60"/> 
