@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+good+to+see+you+🙃;Let's+get+better+together+✊)](https://git.io/typing-svg)
 
-- 👋 Hi, I’m @AyushSinghal9020
-- 👀 I’m interested in Machine Leaning
-- 🌱 I’m currently learning Data Scince
-- 💞️ I’m looking to collaborate on Github
+- 👋 Hi, I’m $Ayush$ $Singhal$
+- 👀 I’m interested in $Deep$ $Learning$/ $Neural$ $Networks$
+- 🌱 I’m currently learning $CUDA$ $Language$
+- 💞️ I’m looking to collaborate on $Github$
 - 📫 How to reach me - through mail => **ayushsinghal659@gmail.com** , **[Kaggle](https://www.kaggle.com/ayushs9020)**
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
