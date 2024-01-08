@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m $Ayush$ $Singhal$
 - 👀 I’m interested in $Deep$ $Learning$/ $Neural$ $Networks$
-- 🌱 I’m currently learning $CUDA$ $Language$
+- 🌱 I’m currently learning building an $AST$ from $Assembly$ $Landguage$
 - 💞️ I’m looking to collaborate on $Github$
 - 📫 How to reach me - through mail => **ayushsinghal659@gmail.com** , **[Kaggle](https://www.kaggle.com/ayushs9020)**
 
